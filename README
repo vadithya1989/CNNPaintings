@@ -1,0 +1,7 @@
+# Convolutional Neural Networks
+
+This Convolutional Neural Network classifies paintings based on the artist. 
+
+# Requirements
+  Data set of painints, Python 3 and Keras 
+
